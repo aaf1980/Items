@@ -1,0 +1,196 @@
+body  {
+ margin: 0 0 0 0;
+}
+
+LI {list-style-type: none;}
+
+.container  {
+height:100%;
+}
+
+.left_sidebar  {	
+	width:100px;	
+    border-right: 1px solid red;
+   	padding-left:10px;      
+	display: block;
+	float:left;	
+}
+
+.left_sidebar ul  {
+	padding:12px 0 0 0;
+}
+.left_sidebar li  {
+	list-style:none;
+	font-size:20px;	
+	padding:3px 0 3px 3px;
+}
+
+.pl_itemlist  {	
+position:relative;
+margin-left:140px;
+top:-15px;
+}
+
+.cardcustomer ul  {	
+   padding:2px 0 0 0;
+}
+.cardcustomer li  {	
+    list-style:none;
+	font-size:16px;
+    padding:2px 0 2px 0; 	
+}
+.zagolovok_c
+{
+	color:red;	
+}
+	
+.total  {
+  background: #E0FDFF;
+}
+
+.req  {
+  background: #FF9999;
+}
+
+#even_id  {
+  width:250px;
+} 
+
+.even  {
+  background: #DFDFDF;
+} 
+.download_exel{
+	position:relative;
+	margin-top:50px;
+}
+.even1  { 
+ display:inline-block;
+ background:#cccccc;  
+} 
+.even2  { 
+ display:inline-block;
+ background:#cccccc;  
+}
+.even3  {
+ display:inline-block;	
+ background:#cccccc;  
+}
+.even4  { 
+ display:inline-block;
+ background:#cccccc;  
+}
+#header  {
+  text-align: center;
+  background:#A4A4A4;
+
+}
+
+.header  {	
+  text-align: center;
+  background:#A4A4A4;
+}
+
+.paning  {
+  text-align: center;
+  background:#A4A4A4;
+}
+.card-pg  {
+font-size:18px;	
+}
+#prodgroup:checked + label  {
+  color: red;
+}
+.poisk {
+	position:relative;
+	margin-left:100px;
+	top:-15px;
+}
+.poisk li {
+	padding-top:5px;
+}
+
+.form_poisk{
+	float:left;
+}
+.form_pg {
+margin-top:-10px;	
+}
+#res_prgroup  {	
+ margin-top:-15px;  
+}
+
+#res_prgroup ul  {	
+   padding:2px 0 0 0;
+}
+
+#res_prgroup li  {	
+    list-style:none;	
+	padding:1px 0 3px 3px;
+}
+#dia {	
+position:relative;
+z-index:1;
+border: 1px solid black;
+width:290px;
+display:block;
+top:-480px;
+margin-left:350px;
+background:#808080;
+clear:both;	
+}
+#dia p {
+font-size:16px;	
+} 
+ 
+.a  {
+  border: none;	
+  width:100px;
+  height:20px;
+  text-align: right;
+}	
+.a:hover {
+    background-color: #eee;
+}
+.a:focus {
+    background-color: #DFDFDF;
+	text-align: left;
+}
+.a:not(:focus) {
+    text-align: right;
+}
+
+.b {
+text-align: right;	
+}
+#aas{
+position:relative;
+margin-left:-50px;	
+}
+#aas_2{
+position:relative;
+margin-left:-50px;	
+}
+#count_koef ul {	
+	display:block;
+}
+#count_koef li {
+padding:3px 0 3px 15px;	
+}
+.color_pg {
+  background:#A9F5A9;
+}
+
+#result {
+position:relative;	
+display:block;
+margin-left:55px;
+}
+#footer  {
+position:fixed; 
+bottom:0px;
+left:0;
+height:20px; 
+padding:0 5px; 
+background:#cccccc; 
+color: #fff; 
+}
